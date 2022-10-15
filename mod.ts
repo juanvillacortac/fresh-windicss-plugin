@@ -1,1 +1,1 @@
-export * from "./src/deps.ts";
+export * from "./src/windicss.ts";
